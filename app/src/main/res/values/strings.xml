@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomListAdapter</string>
+    <string name="club_name">club_name</string>
+    <string name="club_description">club_description</string>
+</resources>
